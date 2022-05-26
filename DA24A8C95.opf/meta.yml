@@ -1,0 +1,22 @@
+id: DA24A8C95
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:37:19+00:00'
+last_modified: '2022-05-26T10:47:39.425581+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    4e25:
+      image_group_id: I1PD95869
+      title: ཁྲོ་བོ་ཐོ་བ་གཤིན་རྗེ་གཤེད་ཀྱི་སྒྲུབ་ཐབས།
+      total_pages: 1586
+      order: 24
+      base_file: 4e25.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
